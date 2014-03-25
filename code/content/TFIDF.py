@@ -1,7 +1,7 @@
-#!/opt/python27/bin/python2.7
+#!/usr/bin/env python
 
 import sys
-sys.path.add('/usr0/home/yipei/Twitter/FeatureExtraction/code/util')
+sys.path.append('/home/yipei/Twitter/FeatureExtraction/code/util')
 
 from collections import defaultdict
 import os.path as path

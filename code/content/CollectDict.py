@@ -1,7 +1,7 @@
-#!/opt/python27/bin/python2.7
+#!/usr/bin/env python
 
 import sys
-sys.path.add('/usr0/home/yipei/Twitter/FeatureExtraction/code/util')
+sys.path.append('/home/yipei/Twitter/FeatureExtraction/code/util')
 
 from collections import defaultdict
 from functools import partial
@@ -20,7 +20,7 @@ def process_word(word):
     #word = re.sub("\(d+\)", "", word)
     return stemmer.stem(word)
 
-file_list=sys.argv[1]
+filelist=sys.argv[1]
 output=sys.argv[2]
 
 cut=1
@@ -30,7 +30,7 @@ if len(sys.argv) > 3:
 word_clip_dict=defaultdict(partial(defaultdict, int))
 
 documentNum=0
-for line in open(file_list):
+for line in open(filelist):
     filename = line.strip()
     print "processing %s" % filename
     documentNum += 1
@@ -40,7 +40,8 @@ for line in open(file_list):
         l = fin.readline()
         if not l:
             break
-	    text = Tparse.GetText(l.strip())
+        #print Tparse.GetText(l.strip())
+        text = Tparse.GetText(l.strip())
         tokens = re.split("\s+|_", text)
         for token in tokens:
             word = process_word(token)
