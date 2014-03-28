@@ -37,15 +37,12 @@ for line in open(filelist):
         tokens = re.split("\s+|_", text)
         for token in tokens:
             word = Processor.process_word(token, 1)
-            if len(word) > 0:
-                word_clip_dict[word][clip] += 1
+            word_clip_dict[word][clip] += 1
 
 #calculate dictionary
 IDF_dict = {}
 for word in word_clip_dict.keys():
         if len(word_clip_dict[word].keys())<cut:
-                continue
-        if len(word)>20:
                 continue
         IDF_dict[word] = math.log(documentNum) - math.log(len(word_clip_dict[word].keys()))
 

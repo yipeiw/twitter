@@ -18,12 +18,16 @@ def process_word(word, strategy=0):
 
 def normalize(word):
     if CheckSpecial(word):
-        return ""
+        return "OTHER"
     word = re.sub("[^a-z]", "", word)
-    return stemmer.stem(word)
+    w_norm = stemmer.stem(word)
+    if len(w_norm) > 15:
+        return "OTHER"
+    else:
+        return w_norm
 
 def CheckSpecial(word):
-    special_list = ['~','@', '#', '$', '%', '^', '&', '*', '+']
+    special_list = ['~','@', '#', '$', '%', '^', '&', '*', '+', '_']
     for special in special_list:
         if word.find(special)!=-1: 
             return True
@@ -32,7 +36,7 @@ def CheckSpecial(word):
 
 
 def MapWord(word):
-    if word.find('http')==0:
+    if word.find('http')!=-1 or word.find('url')!=-1:
         return ["URL", 1]
     if word.find('#')==0:
         return ["Hash", 1]

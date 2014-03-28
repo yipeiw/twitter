@@ -1,0 +1,16 @@
+Content Feature
+1.tweet and user interest
+  -dir /home/yipei/Twitter/FeatureExtraction/data/content/Similarity/tweet
+  (The file is named by the tweet ID) 
+  -format:
+    for each row  <user_id><cosine_distance>
+2.user and user interest
+  -filepath: /home/yipei/Twitter/FeatureExtraction/data/content/Similarity/user.txt
+  -format: 
+    for each row <user1_id><user2_id><cosine_distance>
+
+Network Feature
+1.author context
+    -dir /home/yipei/Twitter/FeatureExtraction/data/network/author.log
+    -format
+    for each row <user_id><num of tweets authored by the user><num of retweets by the user>

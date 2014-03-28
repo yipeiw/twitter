@@ -7,3 +7,4 @@ userlist = sys.argv[2]
 output = sys.argv[3]
 
 #calculate the cosine distance for different types of similarity
+
