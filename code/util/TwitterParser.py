@@ -1,10 +1,40 @@
 #!/usr/bin/env python
 
+def GetUserInfo(userjson):
+    info = {}
+    info['follow'] = userjson['followers_count']
+    info['friend'] = userjson['friends_count']
+    return info 
+
+def GetTweetInfo(tweet):
+    has_url = False
+    has_mention = False
+    has_hashtag = False
+    origin = True
+
+    if tweet.find('RT'):
+        origin = False
+        if tweet.find("http:")!=-1:
+            has_url = True
+        for word in tweet.split():
+            if word[0]=="#":
+                has_hashtag= True
+            if word[0]=="@":
+                has_mention = True
+    info = {'origin':origin, 'has_url':has_url, 'has_mention':has_mention, 'has_hashtag':has_hashtag}
+    return info
+
+#below functions are all for text format
 def GetText(entry):
     start = entry.find(", text='") + len(", text='")
     end = entry.find("', source=")
     #print start, end
     #print entry[start:end]
+    return entry[start:end]
+
+def GetTimeStamp(entry):
+    start = entry.find('createdAt=') + len('createdAt=')
+    end = entry.find(', id=')
     return entry[start:end]
 
 def GetCreditInfo(entry):
