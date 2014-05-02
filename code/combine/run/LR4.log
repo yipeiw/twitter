@@ -1,0 +1,540 @@
+nohup: ignoring input
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16430625
+16430625 positive: 8, negative: 14312
+8 14312
+
+real	2m31.036s
+user	1m58.231s
+sys	0m1.380s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16431371
+16431371 positive: 12, negative: 14308
+12 14308
+
+real	46m46.381s
+user	35m7.908s
+sys	2m58.199s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16437867
+16437867 positive: 1, negative: 14319
+1 14319
+
+real	11m33.074s
+user	9m12.503s
+sys	0m7.348s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16513135
+no retweets  16513135
+
+real	0m0.074s
+user	0m0.028s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 1652541
+no retweets  1652541
+
+real	0m0.088s
+user	0m0.016s
+sys	0m0.024s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16529006
+16529006 positive: 9, negative: 14311
+9 14311
+
+real	2m52.715s
+user	2m28.301s
+sys	0m1.452s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16535484
+no retweets  16535484
+
+real	0m0.052s
+user	0m0.028s
+sys	0m0.004s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16562949
+no retweets  16562949
+
+real	0m0.053s
+user	0m0.028s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16571907
+16571907 positive: 11, negative: 14309
+11 14309
+
+real	29m41.190s
+user	27m9.530s
+sys	0m54.579s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16580226
+16580226 positive: 98, negative: 14222
+98 14222
+
+real	1m27.692s
+user	1m18.589s
+sys	0m2.800s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16586811
+16586811 positive: 6, negative: 14314
+6 14314
+
+real	1m37.690s
+user	1m31.430s
+sys	0m1.648s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16593613
+16593613 positive: 7, negative: 14313
+7 14313
+
+real	19m26.274s
+user	17m9.356s
+sys	1m13.337s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16595296
+no retweets  16595296
+
+real	0m0.041s
+user	0m0.028s
+sys	0m0.012s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 165964253
+no retweets  165964253
+
+real	0m0.041s
+user	0m0.024s
+sys	0m0.016s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16601823
+16601823 positive: 3, negative: 14317
+3 14317
+
+real	2m3.787s
+user	1m56.079s
+sys	0m1.104s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16611084
+16611084 positive: 1, negative: 14319
+1 14319
+
+real	13m47.113s
+user	12m34.155s
+sys	0m30.566s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16613128
+16613128 positive: 23, negative: 14297
+23 14297
+
+real	1m34.370s
+user	1m25.857s
+sys	0m2.960s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16619832
+16619832 positive: 4, negative: 14316
+4 14316
+
+real	1m41.842s
+user	1m34.710s
+sys	0m2.116s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16624180
+no retweets  16624180
+
+real	0m0.052s
+user	0m0.036s
+sys	0m0.004s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16655768
+16655768 positive: 4, negative: 14316
+4 14316
+
+real	1m20.463s
+user	1m16.065s
+sys	0m1.028s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16656631
+16656631 positive: 18, negative: 14302
+18 14302
+
+real	41m57.248s
+user	36m40.450s
+sys	2m59.263s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 167122787
+167122787 positive: 1, negative: 14319
+1 14319
+
+real	6m34.680s
+user	6m5.383s
+sys	0m7.248s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16729915
+16729915 positive: 2, negative: 14318
+2 14318
+
+real	44m39.065s
+user	40m15.371s
+sys	2m11.020s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16822292
+16822292 positive: 9, negative: 14311
+9 14311
+
+real	107m25.506s
+user	87m39.953s
+sys	12m19.110s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16834046
+no retweets  16834046
+
+real	0m0.044s
+user	0m0.036s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 168458031
+168458031 positive: 2, negative: 14318
+2 14318
+
+real	32m40.066s
+user	29m59.540s
+sys	2m38.386s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16847294
+16847294 positive: 19, negative: 14301
+19 14301
+
+real	1m16.005s
+user	1m15.009s
+sys	0m0.916s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 168537920
+168537920 positive: 3, negative: 14317
+3 14317
+
+real	6m28.315s
+user	6m9.239s
+sys	0m18.661s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16857707
+16857707 positive: 27, negative: 14293
+27 14293
+
+real	23m42.562s
+user	21m23.848s
+sys	2m17.109s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16866701
+16866701 positive: 35, negative: 14285
+35 14285
+
+real	1m16.453s
+user	1m15.473s
+sys	0m0.884s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16871017
+no retweets  16871017
+
+real	0m0.043s
+user	0m0.040s
+sys	0m0.000s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16871528
+16871528 positive: 22, negative: 14298
+22 14298
+
+real	3m1.176s
+user	2m57.031s
+sys	0m3.856s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16904234
+no retweets  16904234
+
+real	0m0.043s
+user	0m0.032s
+sys	0m0.012s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16909728
+no retweets  16909728
+
+real	0m0.042s
+user	0m0.020s
+sys	0m0.020s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 169203819
+169203819 positive: 219, negative: 14101
+219 14101
+
+real	2m20.834s
+user	2m16.269s
+sys	0m4.380s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 169207084
+no retweets  169207084
+
+real	0m0.026s
+user	0m0.020s
+sys	0m0.004s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16956955
+no retweets  16956955
+
+real	0m0.026s
+user	0m0.016s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 169610198
+no retweets  169610198
+
+real	0m0.026s
+user	0m0.016s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16971994
+16971994 positive: 26, negative: 14294
+26 14294
+
+real	0m54.008s
+user	0m51.927s
+sys	0m2.016s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 16998020
+16998020 positive: 1, negative: 14319
+1 14319
+
+real	52m30.986s
+user	46m45.375s
+sys	5m41.725s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17014912
+no retweets  17014912
+
+real	0m0.067s
+user	0m0.028s
+sys	0m0.012s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17061263
+no retweets  17061263
+
+real	0m0.028s
+user	0m0.016s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17078632
+no retweets  17078632
+
+real	0m0.027s
+user	0m0.016s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 171154131
+171154131 positive: 47, negative: 14273
+47 14273
+
+real	1m47.598s
+user	1m43.278s
+sys	0m4.176s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 171159684
+171159684 positive: 15, negative: 14305
+15 14305
+
+real	11m36.841s
+user	11m18.426s
+sys	0m17.633s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 171228400
+no retweets  171228400
+
+real	0m0.026s
+user	0m0.012s
+sys	0m0.012s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17169854
+no retweets  17169854
+
+real	0m0.027s
+user	0m0.016s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17220817
+17220817 positive: 1, negative: 14319
+1 14319
+
+real	0m42.671s
+user	0m41.567s
+sys	0m1.032s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17220934
+no retweets  17220934
+
+real	0m0.042s
+user	0m0.032s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17225361
+17225361 positive: 3, negative: 14317
+3 14317
+
+real	3m6.930s
+user	3m2.555s
+sys	0m3.672s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17233110
+17233110 positive: 1, negative: 14319
+1 14319
+
+real	1m17.467s
+user	1m16.257s
+sys	0m1.124s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17241895
+17241895 positive: 1, negative: 14319
+1 14319
+
+real	0m51.536s
+user	0m50.547s
+sys	0m0.920s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17260743
+no retweets  17260743
+
+real	0m0.040s
+user	0m0.028s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 1729441
+1729441 positive: 8, negative: 14312
+8 14312
+
+real	33m31.932s
+user	31m38.227s
+sys	1m51.167s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17298058
+no retweets  17298058
+
+real	0m0.040s
+user	0m0.024s
+sys	0m0.016s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17324058
+17324058 positive: 12, negative: 14308
+12 14308
+
+real	3m42.191s
+user	3m36.398s
+sys	0m5.372s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17346623
+no retweets  17346623
+
+real	0m0.040s
+user	0m0.040s
+sys	0m0.000s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17375110
+no retweets  17375110
+
+real	0m0.040s
+user	0m0.028s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17384099
+17384099 positive: 2, negative: 14318
+2 14318
+
+real	8m48.475s
+user	8m26.636s
+sys	0m21.229s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17403531
+17403531 positive: 1, negative: 14319
+1 14319
+
+real	0m14.591s
+user	0m13.893s
+sys	0m0.652s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17425194
+no retweets  17425194
+
+real	0m0.027s
+user	0m0.020s
+sys	0m0.004s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17446998
+no retweets  17446998
+
+real	0m0.044s
+user	0m0.032s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17454769
+17454769 positive: 11, negative: 14309
+11 14309
+
+real	0m33.225s
+user	0m32.078s
+sys	0m1.048s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17459208
+17459208 positive: 2, negative: 14318
+2 14318
+
+real	58m21.746s
+user	52m36.729s
+sys	4m54.970s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17469289
+17469289 positive: 1, negative: 14319
+1 14319
+
+real	0m27.205s
+user	0m25.482s
+sys	0m1.168s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17473973
+17473973 positive: 13, negative: 14307
+13 14307
+
+real	15m59.277s
+user	15m5.525s
+sys	0m20.377s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 175577355
+175577355 positive: 6, negative: 14314
+6 14314
+
+real	2m29.263s
+user	2m23.781s
+sys	0m1.396s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 175624200
+no retweets  175624200
+
+real	0m0.074s
+user	0m0.032s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 175629426
+175629426 positive: 13, negative: 14307
+13 14307
+
+real	42m28.206s
+user	38m41.325s
+sys	3m7.312s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17571169
+17571169 positive: 1, negative: 14319
+1 14319
+
+real	12m47.462s
+user	12m15.366s
+sys	0m19.737s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 176297531
+no retweets  176297531
+
+real	0m0.045s
+user	0m0.036s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17636894
+no retweets  17636894
+
+real	0m0.045s
+user	0m0.032s
+sys	0m0.012s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 1764931
+1764931 positive: 4, negative: 14316
+4 14316
+
+real	17m27.826s
+user	16m47.383s
+sys	0m25.182s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17673
+17673 positive: 23, negative: 14297
+23 14297
+
+real	1m43.896s
+user	1m40.854s
+sys	0m1.280s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 1768351
+1768351 positive: 7, negative: 14313
+7 14313
+
+real	1m41.501s
+user	1m38.182s
+sys	0m1.308s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 176854913
+176854913 positive: 30, negative: 14290
+30 14290
+
+real	2m35.171s
+user	2m31.481s
+sys	0m2.216s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17688601
+17688601 positive: 27, negative: 14293
+27 14293
+
+real	74m11.293s
+user	63m47.735s
+sys	10m3.834s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 177292365
+177292365 positive: 2, negative: 14318
+2 14318
+
+real	6m19.714s
+user	6m4.127s
+sys	0m15.157s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17781165
+17781165 positive: 32, negative: 14288
+32 14288
+
+real	1m13.854s
+user	1m10.964s
+sys	0m2.732s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17791088
+17791088 positive: 44, negative: 14276
+44 14276
+
+real	46m40.431s
+user	42m2.210s
+sys	4m34.725s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 178095983
+178095983 positive: 45, negative: 14275
+45 14275
+
+real	24m39.039s
+user	22m13.955s
+sys	2m23.393s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 17811689

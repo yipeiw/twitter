@@ -12,15 +12,15 @@ def GetTweetInfo(tweet):
     has_hashtag = False
     origin = True
 
-    if tweet.find('RT'):
+    if tweet.find('RT')!=-1:
         origin = False
-        if tweet.find("http:")!=-1:
-            has_url = True
-        for word in tweet.split():
-            if word[0]=="#":
-                has_hashtag= True
-            if word[0]=="@":
-                has_mention = True
+    if tweet.find("http:")!=-1:
+        has_url = True
+    for word in tweet.split():
+        if word[0]=="#":
+            has_hashtag= True
+        if word[0]=="@":
+            has_mention = True
     info = {'origin':origin, 'has_url':has_url, 'has_mention':has_mention, 'has_hashtag':has_hashtag}
     return info
 

@@ -1,0 +1,70 @@
+nohup: ignoring input
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 7372912
+no retweets  7372912
+
+real	0m0.056s
+user	0m0.036s
+sys	0m0.004s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 7388802
+7388802 positive: 5, negative: 14315
+5 14315
+
+real	23m53.939s
+user	20m38.409s
+sys	0m50.683s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 7400342
+7400342 positive: 57, negative: 14263
+57 14263
+
+real	33m2.586s
+user	28m58.409s
+sys	1m5.112s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 7434902
+7434902 positive: 12, negative: 14308
+12 14308
+
+real	4m14.336s
+user	3m45.442s
+sys	0m7.036s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 74673
+no retweets  74673
+
+real	0m0.066s
+user	0m0.028s
+sys	0m0.008s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 7482
+7482 positive: 11, negative: 14309
+11 14309
+
+real	1m32.879s
+user	1m26.661s
+sys	0m1.368s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 749863
+749863 positive: 18, negative: 14302
+18 14302
+
+real	0m8.443s
+user	0m7.464s
+sys	0m0.956s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 7552082
+7552082 positive: 17, negative: 14303
+17 14303
+
+real	1m29.232s
+user	1m21.873s
+sys	0m1.360s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 755859
+755859 positive: 4, negative: 14316
+4 14316
+
+real	0m46.890s
+user	0m43.035s
+sys	0m1.056s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 75641903
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+/home/yipei/Twitter/FeatureExtraction/code/combine/LRTrainData.py 7646402
+./runLR10.sh: fork: Cannot allocate memory
+no retweets  75641903
